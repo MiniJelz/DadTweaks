@@ -1,3 +1,3 @@
 # DadTweaks
 
-This will be a Terraria mod designed by MiniJelz and Ace
+This will be a Terraria mod designed by MiniJelz and Ace.
